@@ -7,4 +7,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Info\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Data\" />
+	  <Folder Include="Vehicles\RailBased\" />
+	  <Folder Include="Vehicles\WaterBased\" />
+	  <Folder Include="Vehicles\AirBased\" />
+	  <Folder Include="VehicleStorageUnit\" />
+	  <Folder Include="VehicleStorageUnit\Garage\" />
+	  <Folder Include="VehicleStorageUnit\Hangar\" />
+	  <Folder Include="VehicleStorageUnit\Dock\" />
+
+  </ItemGroup>
+
 </Project>

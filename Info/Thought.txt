@@ -1,0 +1,67 @@
+-VehicleStorageUnit(VST) stores Vehicles of different types: 
+
+
+
+	-Hangar stores FlyingVehicles such as:
+		-Aeroplane: 
+			-Propellerplane
+			-Jetplane
+		-Helicopter
+
+	-Depot stores RailroadVehicles such as:		https://thisvsthat.io/depot-vs-garage
+		-Trains
+			-Lokomotiv
+				-ElectricLokomotivs
+				-DieselLokomotiv
+			-Cart
+				-FreightCart
+				-PassengerCart
+				-OreCart
+		-CommuterTrains  (https://thisvsthat.io/train-vs-tram)
+				-Tram
+				-Subway
+
+	-Garage stores RoadBasedVehicles such as:
+		-Car
+			-Van
+				-Mini
+			-EPA-Traktor
+			-Limosuine
+			-Sedan
+
+		-Truck
+			-Light
+			-Heavy
+		-Motorcycle
+		-Traktor
+		-Bus
+			-Mini
+	-Harbor stores WaterBasedVehicles such as:
+		-Boat	
+			-Row
+			-Sail
+			-Motor
+			-Tug
+		-Ship		https://thisvsthat.io/boat-vs-ship
+			-Cargo
+			-Tanker
+			-War
+			-Cruise
+
+Hybrids: Of course there are hybrids inbetween. There are Amphibious cars that can park in both Harbours and Garage's. Flying cars (of course) can park in a garage if driving but they can only land by a Hangar(and park there.) if flying.
+SpaceUtilization: A smaller Vehicle can use a bigger space as long as they belong to the same VehicleStorageUnit but will have to pay the fee of the place they occupy instead of the space. 
+TypeRestrictions: A specific VehicleSorageUnit can be limitid to a subset of applicable vehicles if so desired. A Harbor can be restricted to only shelter Boats for instance. Or WarShips for that matter. OR only Communal/private/Commercial vehicles..
+Fees: A Vehicle must pay a parking fee. it can be paid in advance or in retrospekt but with a penalty and a risk of beeing towed.
+
+
+VST's can further be designated as private, communal, commercial, or corporate.
+These catogories are defined by ownership by Groups of citizens, communities and corporations.
+
+citizens can belong to both  a community and a corporation and can utilize VST by affiliation and agreement. Rent commercial or use corporate if affiliated with corporation and same with community. 
+He/she can also Own a private spot. A private VST can house no more than 2 spots and cannot be leased.
+
+A Community cannot belong to a corporation nor can a corporation belong to a community.
+A corporation can own a commercial VST but not an Communal one and vice versa.
+
+All Vehicles and VST's are Owned by one These Groups. Mutually Exclusive respectivly. 
+
